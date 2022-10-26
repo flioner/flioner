@@ -1,4 +1,4 @@
-![alt text](https://res.cloudinary.com/dgb1oqgt3/image/upload/v1666803124/GHBG_bbbfve.jpg)
+![alt text](https://res.cloudinary.com/dgb1oqgt3/image/upload/v1666803701/GHBG_Cropped-modified-min_1_yjwo6p.png)
 
 - 👋 Hi, I’m @flioner
 - 👀 I’m interested in ...
