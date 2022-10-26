@@ -1,4 +1,4 @@
-![alt text](https://giphy.com/gifs/QUAcvP3zlWm7nvfooW)
+![alt text](https://media.giphy.com/media/QUAcvP3zlWm7nvfooW/giphy.gif)
 
 - 👋 Hi, I’m @flioner
 - 👀 I’m interested in ...
