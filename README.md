@@ -1,4 +1,4 @@
-<div class="tenor-gif-embed" data-postid="26400551" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/background-gif-26400551">Background GIF</a>from <a href="https://tenor.com/search/background-gifs">Background GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://media.giphy.com/media/Wy3Q0fuNIJmYn62Lcv/giphy.gif" width="100%" height="50%" />
 
 - 👋 Hi, I’m @flioner
 - 👀 I’m interested in ...
