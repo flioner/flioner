@@ -1,4 +1,4 @@
-![alt text](https://media.giphy.com/media/hVbErjjtKCIHb24j4y/giphy.gif)
+<img src="https://media.giphy.com/media/hVbErjjtKCIHb24j4y/giphy.gif" width="100%" />
 
 - 👋 Hi, I’m @flioner
 - 👀 I’m interested in ...
