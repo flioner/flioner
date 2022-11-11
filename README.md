@@ -19,12 +19,7 @@
       <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"/>
    <a/> 
 </p>
-
-https://fabianlioner.com/work/Music-Visualizers-And-3D-Work
-
-
-  
-  
+    
 <!---
 flioner/flioner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
