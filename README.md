@@ -8,12 +8,10 @@
             <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
    <a/>
    <a href="mailto:lionerrochae@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
    <a/>
-   <a href="https://wiki.archlinux.org/">
-     <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-   <a/>
-   <a href="https://fabianlioner.com/work/Music-Visualizers-And-3D-Work">
+
+   <a href="https://fabianlioner.com">
       <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"/>
    <a/> 
 </p>
