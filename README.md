@@ -4,9 +4,9 @@
 <img width="43%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=flioner&hide=html&hide_title=true&hide_border=true&layout=compact&theme=transparent" /><!-- wi*quL3fcV -->
 
 <p float="left">
-   <a href="https://www.youtube.com/c/LNRMusicCuration/">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-   <a/>
+   <a href="https://www.linkedin.com/in/fabianlioner/">
+            <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff
+"/><a/>
    <a href="mailto:lionerrochae@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
    <a/>
